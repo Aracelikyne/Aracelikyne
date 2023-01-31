@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div id="header" align="center">
+  <img src="https://giphy.com/embed/HscDLzkO8EOTmgkhQP" width="200"/>
+</div>
+
 <!--
 **Aracelikyne/Aracelikyne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
