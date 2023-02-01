@@ -1,13 +1,13 @@
 ### Hi there 👋
-I'm Araceli Kyne and I'm a backend Developer
+
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="200"/>
 </div>
 
+I'm Araceli Kyne and I'm a backend Developer! I currently have experience with Java 
 
-- 🔭 I’m currently working on getting certified for Backend Development with Bloomtech
-- 🌱 I’m currently learning AWS and Lambda
+- 🌱 I’m currently learning AWS and Lambda, as well as HTML and CSS
 - 📫 How to reach me: email: aracelikyne@gmail.com or through the LinkedIn button below
 - ⚡ Fun fact: I have been accepted into Samsung AI's course as well and have held a TS clearance before.
 
