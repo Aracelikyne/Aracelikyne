@@ -6,6 +6,7 @@
 </div>
 
 I'm Araceli Kyne and I'm a Backend Developer! I currently have experience with Java, but starting to dive into React and HTML.
+I am working on breaking into the tech world. Feel free to connect with me!
 
 - 🌱 I’m currently learning AWS and Lambda, as well as HTML and CSS
 - 📫 How to reach me: email: aracelikyne@gmail.com or through the LinkedIn button below
